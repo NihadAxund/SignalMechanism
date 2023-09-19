@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalMechanism", "SignalMechanism\SignalMechanism.csproj", "{031D6DC5-514E-46C7-BB83-E07E4FAA71B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031D6DC5-514E-46C7-BB83-E07E4FAA71B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031D6DC5-514E-46C7-BB83-E07E4FAA71B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031D6DC5-514E-46C7-BB83-E07E4FAA71B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031D6DC5-514E-46C7-BB83-E07E4FAA71B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B111DC6-642D-4E0D-9397-749ED31A84D3}
+	EndGlobalSection
+EndGlobal
